@@ -3,3 +3,7 @@ very long textual content. from various "sleepy science" channels, the subtitles
 
 note. content created by others. mostly A.I., skip fact check, that's just story time.  
 unmodified - you'll find the channel name mostly on the start, including asking to subscribe and press like..  
+
+titles were changes, minified. date is ISO like format of year (4 digits), month, day. matching the video upload time (not publish time) in the specific channel. some of the no longer exist, still it is a nice way of tracking all the videos.  you can probably find the original video if the channel still exist using it.  
+
+
