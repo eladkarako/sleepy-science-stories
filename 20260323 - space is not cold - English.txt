@@ -1,0 +1,1048 @@
+Welcome to the Science for Sleep channelwhere we explore the wonders of
+theuniverse in a calm and relaxing way.Think about a decision you made today.
+
+Something small. Which way you turned,what you chose to eat,
+whether youpicked up your phone or put it down.
+
+Amoment so ordinary that you haveprobably already forgotten it.
+
+Nowconsider this. According to one of themost seriously held interpretations
+ofquantum mechanics, supported by asignificant number of workingphysicists,
+grounded in the same mathematics thatbuilt the modern world,
+both optionshappened, not as possibilities,not as metaphors,both as real,
+physical, equally validoutcomes occurring simultaneously inbranches of reality
+that diverged at themoment you chose.
+
+There is a version ofyou who made the other choice.
+
+They haveyour memories, your face, your historyup to that moment.
+
+They are in everymeaningful sense you.
+
+And they areunreachable not because the technologydoes not exist,
+but because thestructure of reality makes the distancebetween you not a matter
+of space ortime, but of something more fundamental.This is not science fiction.
+
+It is alive debate in theoretical physics. Ithas been for 60 years.
+
+In the next 30minutes, we are going to go through thescience behind parallel
+universes fromthe quantum mechanics that firstsuggested they might exist.
+
+to thecosmological theories that propose aninfinite number of bubble universes
+tothe most radical idea of all that everymathematically possible universe is
+insome sense real. Wherever you are rightnow, whatever time it is,
+in some branchof the wave function, you chose not topress play.
+
+We are glad you are in thisone.
+
+Before we can talk about how coldspace is, we need to talk about whatcold
+actually means. This sounds like adetour. It is not.
+
+The answer to howcold is space turns out to dependentirely on what you mean
+bytemperature. And what temperature meansat the physical level is
+considerablystranger than the number on athermometer suggests.
+
+what temperature actually measures.
+
+Temperature is not a property of objectsin the way that mass or volume is
+aproperty of objects. It is a measure ofsomething more fundamental.
+
+The averagekinetic energy of the particles in asubstance.
+
+How fast they are moving, howvigorously they are vibrating,
+how muchenergy is stored in their randomcontinuous motion.
+
+When you touch a hotstove, what you are experiencing is thetransfer of kinetic
+energy from thefastmoving molecules of the stovesurface to the molecules of
+your hand.The stove is hot because its moleculesare moving rapidly.
+
+Your hand feels theheat because those fast moleculestransfer their energy to
+your slowermolecules, speeding them up, which yournervous system interprets as
+warmth andbeyond a threshold, pain.
+
+When somethingis cold, the opposite is happening.
+
+Coldobjects have molecules moving slowly.
+
+When you hold a piece of ice, your handfeels cold because energy is flowing
+theother way from your fastmoving hand.
+
+molecules into the slower molecules ofthe ice, cooling your hand as it doesso.
+
+Temperature in this framework issimply a measure of molecular motion.
+
+More motion equals higher temperature.Less motion equals lower temperature.
+
+Which leads directly to an obviousquestion, absolute zero.
+
+If temperatureis molecular motion, what happens whenthe motion stops entirely?
+The answer isabsolute zero.
+
+The theoreticaltemperature at which all molecularmotion ceases.
+
+In the Celsius scale,absolute 0 is 253.15°.In the Fahrenheit scale, it is 459.
+
+67°.In the Kelvin scale, the temperaturescale used by scientists which starts
+atabsolute zero. It is simply 0 Kelvin.Absolute zero is not merely very cold.
+
+It is the lowest temperature that isphysically meaningful and the pointbeyond
+which the concept of temperaturein the conventional sense ceases toapply.
+
+You cannot go below absolute zeroin the same way that you cannot have aspeed
+slower than standing still. Andhere is the first strange thing.
+
+Absolute zero cannot be reached.
+
+Thethird law of thermodynamics states thatit is impossible to cool any system
+toabsolute zero in a finite number ofsteps. You can get arbitrarily close.
+
+You can reach temperatures of billionthsof a degree above absolute zero
+incarefully controlled laboratoryconditions.
+
+But the last fraction of adegree is unreachable.
+
+Each step ofcooling requires more effort than thelast.
+
+In a progression that convergestowards zero without ever arriving.
+
+Absolute zero is an asmtote. Theuniverse approaches it. It never getsthere.
+
+The Kelvin scale. The Kelvinscale is the temperature scale ofphysics and
+astronomy and understandingit is essential for making sense of thetemperatures
+we will encounter [music]in this video. 0 Kelvin is absolutezero.
+
+Water freezes at 273 Kelvin. Waterboils at 373Kelvin.
+
+The surface of the sun isapproximately 5,778Kelvin.
+
+The core of the sun isapproximately 15 million Kelvin.
+
+And theaverage temperature of empty space, thebackground temperature of the
+universeitself, the coldness of the void betweengalaxies is approximately 2.
+
+7 Kelvin,2.7° above absolute zero. To put that inCelsius, 270.45°C.
+
+The coldest temperature ever recordedon Earth's surface was 89.
+
+2°C in Antarctica. The temperature ofempty space is three times colder thanthe
+coldest place on Earth's surface.
+
+Why measuring temperature in space iscomplicated?
+Here is where thestraightforward picture begins tocomplicate itself.
+
+Temperature, as weestablished, is a measure of molecularmotion.
+
+But empty space by definitioncontains almost no molecules.
+
+A perfectvacuum, a region of space entirelydevoid of matter,
+has no molecules tomeasure.
+
+In a strict sense, a perfectvacuum has no temperature at all becausetemperature
+requires particles to bemoving and a vacuum has no particles.What the 2.
+
+7 Kelvin figure actuallymeasures is not the temperature of emptyspace itself,
+but the temperature of theradiation filling it.
+
+The cosmicmicrowave background, the faint afterlowof the big bang that
+permeates theentire universe.
+
+This radiation has atemperature in the sense that it wouldwarm an object placed
+in it toapproximately 2.7 Kelvin.
+
+Theequilibrium temperature at which anobject absorbs as much energy from
+thebackground radiation as it radiatesaway. This distinction matters.
+
+Space isnot cold in the way that a freezer iscold.
+
+It is cold in the way that a roomfilled with very faint, very uniformradiation
+is cold. The physics of howheat moves in space and why that makesspace
+simultaneously more dangerous andmore strange than its temperaturesuggests is
+the subject of the nextsection.
+
+In 1964,two radio astronomers at Bell Labs inNew Jersey were trying to build
+the mostsensitive radio antenna everconstructed.
+
+Ano Pensius and RobertWilson kept encountering a persistent,irritating problem.
+
+No matter where theypointed their antenna, no matter whattime of day or year
+they made theirmeasurements, there was a faintbackground noise they could
+noteliminate. They checked everything. Theyrecalibrated the equipment.
+
+They removeda pair of pigeons that had nested in theantenna and cleaned out
+what theydiplomatically described as a whitedialectric material from the
+interior.The noise persisted.
+
+What Pensas andWilson had found accidentally whiletrying to solve what they
+thought was anengineering problem was the cosmicmicrowave background radiation.
+
+The faint afterglow of the big bangitself filling the entire universeuniformly
+in every direction. The oldestlight in existence.
+
+They were awardedthe Nobel Prize in physics in 1978.The afterglow of everything.
+
+The cosmicmicrowave background.
+
+The CMBB is thethermal radiation left over from theearly universe approximately
+380,000years after the Big Bang when theuniverse had cooled enough for atoms
+toform and light was able to travel freelyfor the first time.
+
+That light has beentraveling ever since.
+
+It has beenstretched by the expansion of theuniverse from visible light
+intomicrowave radiation. It has cooled fromthe thousands of Kelvin it had when
+itwas first emitted to its currenttemperature of approximately 2, 725Kelvin,
+just barely above absolute zero.It is everywhere.
+
+It fills every cm ofspace in the observable universeuniformly and
+isotropicallymeaning it comes equally from alldirections.
+
+There is no location in the universewhere the CMBB is absent.
+
+It is thebaseline temperature of existenceitself.
+
+The minimum warmth that theuniverse provides to everything withinit.
+
+How close to absolute zero? 2.725Kelvin sounds like a small number. Itis.
+
+The distance between 2.725Kelvin and absolute zero is smaller thanthe distance
+[music] between thefreezing point of water and a mildlycool autumn day.
+
+The universe is by anyreasonable standard extraordinarilycold.
+
+It began in a state of almostunimaginable heat.
+
+The temperatures inthe first moments after the big bangreached [music] values
+measured intrillions of Kelvin and has been coolingever since as it expands and
+the energywithin it spreads across an ever largervolume.
+
+The CMBB temperature has beendropping continuously since the BigBang.
+
+380,000years after the Big Bang, it wasapproximately 3,000 Kelvin,
+thetemperature of a dim star. Today, 13.8billion years later, it is 2.725Kelvin.
+
+In another 13.8 billion years,it will be approximately half that.
+
+Theuniverse is cooling. It has always beencooling and it will continue
+coolingwithout limit toward the absolute zeroit will approach but never reach
+acrosstime scales that make the current age ofthe universe seem brief.
+
+Why thismatters? The 2.725Kelvin background temperature has aconsequence that
+is easy to overlook.Any object placed in space, aspacecraft, an asteroid,
+a human beingwill eventually equilibrate to thebackground temperature if left
+longenough and far enough from any heatsource.
+
+In the absence of sunlight, inthe absence of any internal heatgeneration,
+the equilibrium temperatureof an object in deep space is 2.725Kelvin.
+
+This is the cold that spaceoffers everything within it.
+
+Notinstant, not violent,slow, patient, and inevitable.
+
+Theuniverse gradually drawing the warmthfrom everything it contains,
+one photonat a time across time scales that haveno human equivalent.
+
+The universe is nottrying to freeze you. It is simply very,very cold.
+
+And it has a great deal oftime. The universe's average temperatureis 2.
+
+725Kelvin. But the universe is not uniform.
+
+It contains regions far colder than theaverage places where the
+temperaturedrops to within a fraction of a degreeof absolute zero,
+where matter exists instates that have no analog anywhere inordinary experience.
+
+And it contains in at least one case aplace colder than anything the
+naturaluniverse has produced on its own. TheBoomerang Nebula.
+
+Approximately 5,000light years from Earth in theconstellation Centurus lies a
+structurecalled the Boomerang Nebula.
+
+Aprotolanetary nebula formed by a dyingstar expelling its outer layers
+intospace at high velocity.
+
+The BoomerangNebula is the coldest known naturallyoccurring place in the
+observableuniverse. Its temperature has beenmeasured at approximately 1 Kelvin,
+1°above absolute zero and colder than thecosmic microwave background itself.
+
+Thislast point requires a moment ofattention. The CMBB fills all of spaceat 2.
+
+725Kelvin. For any object to be colder thanthe CMBB, it must be actively
+losingheat faster than the backgroundradiation is supplying it.
+
+The BoomerangNebula achieves this through a processof rapid adiabatic expansion.
+
+The gasexpelled from the central star isexpanding so quickly that it
+coolsfaster than the CMBB can warm it.
+
+In thesame way that gas released rapidly froma pressurized canister feels cold.
+
+Theresult is a region of space colder thanthe background temperature of
+theuniverse itself. An island ofextraordinary cold in an alreadyextraordinarily
+cold cosmos. The humanachievement.
+
+Here is where the storytakes an unexpected turn.
+
+The coldesttemperature ever achieved on Earth andtherefore the coldest
+temperature everrecorded anywhere was not produced byany natural process.
+
+It was produced ina laboratory.
+
+In 2021, researchers at MIT cooled acloud of sodium and lithium atoms
+toapproximately 450 pico Kelvin, 450trillionths of a Kelvin above absolutezero.
+
+This is not merely colder than theBoomerang Nebula.
+
+It is approximately 2billion times colder than the BoomerangNebula.
+
+It is the closest any matter hasever come to absolute zero.
+
+At thesetemperatures, matter behaves in waysthat have no classical analog.
+
+Atomsform a Bose Einstein condensate, a stateof matter predicted by Einstein in
+1924and first achieved in 1995in which a group of atoms effectivelymerge into a
+single quantum entitybehaving as one coherent wave functionrather than as
+individual particles.The distinction between individual atomsdissolves.
+
+Quantum effects becomevisible at scales large enough toobserve directly.
+
+This is not a state ofmatter that exists anywhere in thenatural universe.
+
+It is a state thatonly exists because human beings builtthe equipment to create
+it coolingmatter to temperatures that the universeitself in 13 8 billion years
+ofexistence has never naturally producedthe scale of cold.
+
+To appreciate therange of temperatures in the universe,consider the span from
+the coldest tothe hottest. The coldest laboratorytemperature 450 picelvin.
+
+The Boomerang Nebula 1 Kelvin. The CMBB2.725Kelvin.
+
+The coldest natural temperatureon Earth184 Kelvin.
+
+Room temperatureapproximately 293 Kelvin. The surface ofthe sun 5,778Kelvin.
+
+The core of the sun 15 millionKelvin.
+
+The temperature of the universe1 second after the big bang,
+approximately 10 billion Kelvin.
+
+Theuniverse spans more than 22 orders ofmagnitude in temperature.
+
+From thelaboratory cold that humans have brieflyachieved to the primordial heat
+of thebig bang, we live as it happens near thecold end of that range,
+much closer toabsolute zero than to the temperaturesat which the universe began.
+
+Everythingwe have discussed so far might suggestthat space is simply very cold.
+
+A vastfreezer, dark and silent that wouldrapidly chill anything placed within
+itto temperatures approaching [music]absolute zero. This is not what happens.
+
+The reality of thermal physics in spaceis considerably stranger andconsiderably
+more dangerous than thesimple picture of a cosmic refrigeratorsuggests.
+
+Understanding why requiresunderstanding how [music] heat actuallymoves.
+
+The three methods of heattransfer.
+
+There are exactly three waysthat heat can move from one place toanother.
+
+Conduction is the transfer ofheat through direct contact betweenobjects.
+
+A metal spoon in a hot cup ofcoffee conducts heat from the coffee toyour hand
+because the fastm movingmolecules of the hot liquid collide withthe molecules
+of the spoon, transferringkinetic energy along the length of themetal to your
+fingers. Convection is thetransfer of heat through the movement offluids,
+liquids, or gases. A radiatorheats a room by warming the air directlyaround it,
+which rises as it expands,pulling cooler air in from below andcreating a
+circulation that graduallyraises the temperature of the entireroom.
+
+Radiation is the transfer of heatthrough electromagnetic waves,
+infraredradiation that all objects emit simplyby virtue of having a temperature
+aboveabsolute zero. The sun warms the Earthnot through conduction or convection.
+
+There is no material connecting them,but through radiation.
+
+The Earthradiates heat back into space the sameway.
+
+In space, conduction and convectiondo not work.
+
+Conduction requires contactbetween molecules.
+
+Convection requires afluid medium to circulate.
+
+Space is for practical purposes avacuum.
+
+There are no molecules toconduct heat along, no fluid tocirculate.
+
+The only heat transfermechanism available in space isradiation. The consequence.
+
+This has aconsequence that seems paradoxical untilyou think it through.
+
+In space, objectsdo not lose heat quickly.
+
+They lose heatonly through radiation, a relativelyslow process compared to
+conduction orconvection. An object in space in theabsence of any heat source
+will cooltoward the background temperature of2.
+
+725Kelvin, but it will do so slowly overhours or days, not in the seconds
+thatdirect contact with a cold medium wouldproduce.
+
+This is why astronauts do notinstantly freeze when they step outsidethe
+International Space Station.
+
+Thevacuum of space cannot conduct cold intotheir bodies.
+
+There are no coldmolecules rushing in to carry theirwarmth away.
+
+But this cuts both ways.The same absence of conduction andconvection that
+prevents rapid freezingalso prevents rapid cooling when anobject is being
+heated. In directsunlight in low Earth orbit, anunprotected surface
+receivesapproximately 1,361watts per square meter of solarradiation and has
+almost no way to shedthat heat except by radiating it away.
+
+Temperatures on the sunlit side of theISS reach approximately120° C.
+
+Temperatures on the shadowedside minutes later as the station orbitsdrop to
+approximately150° C. The same object, [music] thesame orbit,
+a temperature swing of 270°in minutes. The space suit as thermalengineering.
+
+The modern space suit isamong other things an extraordinarilysophisticated
+thermal management system.
+
+[music]It must simultaneously protect againstthe solar heating that would
+otherwiseraise surface temperatures to lethallevels and prevent the radiative
+coolingthat would otherwise cause the suitedastronaut to lose body heat faster
+thantheir metabolism can replace it.
+
+It doesthis through multiple layers ofinsulation, reflective outer surfaces,
+and an internal liquid cooling andventilation system that actively managesthe
+astronaut's body temperature duringphysical exertion.
+
+The engineeringchallenge is not keeping astronauts warmin the cold of space.
+
+It is keeping themat a stable temperature in anenvironment where the only heat
+transfermechanism is radiation and where thedifference between full sunlight
+andfull shadow is larger than thedifference between a sauna and the fragsurface
+of Antarctica.Space is not simply cold.
+
+It isthermally extreme in both directionssimultaneously and utterly
+indifferentto which direction you need it to be.
+
+The question of what happens to anunprotected human body in space has
+beenanswered by physics long before anyonehad to find out experimentally.
+
+Theanswer is not what popular culturesuggests. It is in some ways worse.
+
+Themyths. The most persistent myth is that[music] an unprotected human in
+spacewould instantly freeze. That the coldwould kill within seconds.
+
+The bodystiffening and crystallizing in thevacuum like something dropped
+intoliquid [music] nitrogen. This does nothappen.
+
+As we established in theprevious section, space cannot conductcold into a body.
+
+There are no moleculesto carry the warmth away throughcontact.
+
+The body loses heat onlythrough radiation and radiation is slow.
+
+An unprotected body in deep space awayfrom any heat source would take hours
+tocool to lethal temperatures throughradiation alone.
+
+The second myth is thatthe body would explode that thedifference in pressure
+between thebody's interior and the vacuum outsidewould cause catastrophic
+decompression.This also does not happen.
+
+Human skin isstrong enough to contain the body'sinternal pressure.
+
+You would notexplode.What actually happens?
+The vacuum is theimmediate problem, not the cold and notthe pressure.
+
+Within approximately 15seconds of exposure to vacuum, theoxygen in the blood
+would be depletedand consciousness would be lost.
+
+Themechanism is not suffocation in theconventional sense.
+
+It is the rapiddeoxxygenation of the blood as dissolvedgases expand and the
+lungs are unable tofunction in the absence of atmosphericpressure.
+
+Eilism, the formation of watervapor bubbles in bodily fluids due toreduced
+pressure would begin almostimmediately.
+
+The moisture on the tongueand eyes would evaporate. Saliva wouldboil.
+
+The skin and soft tissues wouldswell as dissolved gases in bodilyfluids form
+bubbles, giving the body abloated appearance without causing it torupture.
+
+The lungs would need to beemptied rapidly, holding a breath invacuum risks
+rupturing the alvoli as thegas expands.
+
+Exhaling before exposure isthe correct instinct, counterintuitiveas it feels.
+
+Death from lack of oxygenwould occur within approximately 90seconds to 2
+minutes of exposure, longbefore the cold became relevant, longbefore any
+dramatic physical destructionof the body.
+
+The vacuum of space doesnot freeze you. It does not explode you.
+
+It simply quietly takes the air.Everything we have discussed, the 2.
+
+7Kelvin background, the Boomerang Nebula,the thermal extremes of low Earth
+orbit,describes the universe as it is now,warm enough in the right places
+forstars to burn and planets to form andlife to exist on at least one of them.
+
+The universe will not always be thisway. The long cooling.
+
+The second law ofthermodynamics states that in any closedsystem,
+entropy increases over time.Heat flows from hot to cold.
+
+Orderdissolves into disorder.
+
+Energy spreadsfrom concentrated sources into diffusebackgrounds until no
+further spreadingis possible.
+
+Applied to the universe asa whole, this principle has an endpoint.
+
+The stars are burning throughtheir fuel.
+
+In approximately 100trillion years, 10,000 times the currentage of the universe,
+the last stars willexhaust their hydrogen and go dark. Nonew stars will form.
+
+The galaxies willgo cold and black, populated only bystellar remnants.
+
+White dwarfs coolingtoward the background temperature.
+
+Neutron stars spinning down.
+
+Black holesslowly evaporating through hawkingradiation across time scales so
+vastthey make a trillion years seem brief.
+
+Eventually the black holes willevaporate. The last one depending on itsmass.
+
+It will take approximately [music]10 to the power of 100 years todisappear
+entirely. A number so largethat writing it out in standard notationwould
+require more digits than there areatoms in the observable universe.
+
+After that, nothing remains but anincreasingly cold, increasingly
+sparsedistribution of fundamental particles inan everexpanding void.
+
+The temperatureof the universe will continue to falltoward absolute zero. The 2.
+
+7 Kelvin oftoday dropping to 2 Kelvin, then one,then fractions,
+then fractions offractions in a cooling that has no endand no bottom.
+
+This is the heat death ofthe universe.
+
+Not an explosion, not acollapse, a slow, patient, inevitableapproach toward a
+cold so profound thatno process of any kind can occur.
+
+Auniverse at maximum entropy, perfectly,finally, and permanently still.
+
+Theuniverse began in unimaginable heat. Itwill end in unimaginable cold.
+
+Andsomewhere between those two extremes, ona warm, rocky planet orbiting an
+averagestar, something briefly became aware ofboth. Rest now. The cold can wait.
+
+Before we can talk about how cold spaceis, we need to talk about what
+coldactually means. This sounds like adetour. It is not.
+
+The answer to howcold is space turns out to dependentirely on what you mean by
+temperatureand what temperature means at thephysical level is considerably
+strangerthan the number on a thermometersuggests.
+
+what temperature actually measures.
+
+Temperature is not a property of objectsin the way that mass or volume is
+aproperty of objects. It is a measure ofsomething more fundamental.
+
+The averagekinetic energy of the particles in asubstance.
+
+How fast they are moving, howvigorously they are vibrating,
+how muchenergy is stored in their randomcontinuous motion.
+
+When you touch a hotstove, what you are experiencing is thetransfer of kinetic
+energy from thefastmoving molecules of the stovesurface to the molecules of
+your hand.The stove is hot because its moleculesare moving rapidly.
+
+Your hand feels theheat because those fast moleculestransfer their energy to
+your slowermolecules, speeding them up, which yournervous system interprets as
+warmth andbeyond a threshold, pain.
+
+When somethingis cold, the opposite is happening.
+
+Coldobjects have molecules moving slowly.
+
+When you hold a piece of ice, your handfeels cold because energy is flowing
+theother way from your fastmoving hand.
+
+molecules into the slower molecules ofthe ice, cooling your hand as it doesso.
+
+Temperature in this framework issimply a measure of molecular motion.
+
+More motion equals higher temperature.Less motion equals lower temperature.
+
+Which leads directly to an obviousquestion, absolute zero.
+
+If temperatureis molecular motion, what happens whenthe motion stops entirely?
+The answer isabsolute zero.
+
+The theoreticaltemperature at which all molecularmotion ceases.
+
+In the Celsius scale,absolute 0 is 253.15°.In the Fahrenheit scale, it is 459.
+
+67°.In the Kelvin scale, the temperaturescale used by scientists which starts
+atabsolute zero. It is simply 0 Kelvin.Absolute zero is not merely very cold.
+
+It is the lowest temperature that isphysically meaningful.
+
+At the pointbeyond which the concept of temperaturein the conventional sense
+ceases toapply. You cannot go below absolute zeroin the same way that you
+cannot have aspeed slower than standing still.
+
+Andhere is the first strange thing.Absolute zero cannot be reached.
+
+Thethird law of thermodynamics states thatit is impossible to cool any system
+toabsolute zero in a finite number ofsteps. You can get arbitrarily close.
+
+You can reach temperatures of billionthsof a degree above absolute zero
+incarefully controlled laboratoryconditions.
+
+But the last fraction of adegree is unreachable.
+
+Each step ofcooling requires more effort than thelast.
+
+In a progression that convergestowards zero without ever arriving.
+
+Absolute zero is an asmtote. Theuniverse approaches it. It never getsthere.
+
+The Kelvin scale. The Kelvinscale is the temperature scale ofphysics and
+astronomy and understandingit is essential for making sense of thetemperatures
+we will encounter in thisvideo. 0 Kelvin is absolute zero.
+
+Waterfreezes at 273 Kelvin. Water boils at373Kelvin.
+
+The surface of the sun isapproximately 5,778Kelvin.
+
+The core of the sun isapproximately 15 million Kelvin.
+
+And theaverage temperature of empty space, thebackground temperature of the
+universeitself, the coldness of the void betweengalaxies is approximately 2.
+
+7 Kelvin,2.7° above absolute zero. To put that inCelsius, 270.45°C.
+
+The coldest temperature ever recordedon Earth's surface was 89.
+
+2°C in Antarctica. The temperature ofempty space is three times colder thanthe
+coldest place on Earth's surface.
+
+Why measuring temperature in space iscomplicated?
+Here is where thestraightforward picture begins tocomplicate itself.
+
+Temperature, as weestablished, is a measure of molecularmotion.
+
+But empty space by definitioncontains almost no molecules.
+
+A perfectvacuum, a region of space entirelydevoid of matter,
+has no molecules tomeasure.
+
+In a strict sense, a perfectvacuum has no temperature at all becausetemperature
+requires particles to bemoving and a vacuum has no particles.What the 2.
+
+7 Kelvin figure actuallymeasures is not the temperature of emptyspace itself,
+but the temperature of theradiation filling it, the cosmicmicrowave background,
+the faint afterlowof the big bang that permeates theentire universe.
+
+This radiation has atemperature in the sense that it wouldwarm an object placed
+in it toapproximately 2.7 Kelvin.
+
+Theequilibrium temperature at which anobject absorbs as much energy from
+thebackground radiation as it radiatesaway. This distinction matters.
+
+Space isnot cold in the way that a freezer iscold.
+
+It is cold in the way that a roomfilled with very faint, very uniformradiation
+is cold. The physics of howheat moves in space and why that makesspace
+simultaneously more dangerous andmore strange than its temperaturesuggests is
+the subject of the nextsection.
+
+In 1964,two radio astronomers at Bell Labs inNew Jersey were trying to build
+the mostsensitive radio antenna everconstructed.
+
+Ano Pensas and RobertWilson kept encountering a persistent,irritating problem.
+
+No matter where theypointed their antenna, no matter [music]what time of day or
+year they made theirmeasurements, there was a faintbackground noise they could
+noteliminate. They checked everything. Theyrecalibrated the equipment.
+
+They removeda pair of pigeons that had nested in theantenna and cleaned out
+what they[music] diplomatically described as awhite dialectric material from
+theinterior. The noise persisted.
+
+What Pensas and Wilson had foundaccidentally while trying to solve whatthey
+thought was an engineering problemwas the cosmic microwave backgroundradiation.
+
+The faint afterglow of thebig bang itself filling the entireuniverse uniformly
+in every direction.The oldest light in existence.
+
+They wereawarded the Nobel Prize in physics in1978.The afterglow of everything.
+
+The cosmicmicrowave background.
+
+The CMBB is thethermal radiation left over from theearly universe approximately
+380,000years after the Big Bang when theuniverse had cooled enough for atoms
+toform and light was able to travel freelyfor the first time.
+
+That light has beentraveling ever since.
+
+It has beenstretched by the expansion of theuniverse from visible light
+intomicrowave radiation. It has cooled fromthe thousands of Kelvin it had when
+itwas first emitted to its currenttemperature of approximately 2 725Kelvin just
+barely above absolute zero.It is everywhere.
+
+It fills every cm ofspace in the observable universeuniformly and
+isotropicallymeaning it comes equally from alldirections.
+
+There is no location in theuniverse where the CMBB is absent.
+
+It isthe baseline temperature of existenceitself.
+
+The minimum warmth that theuniverse provides to everything withinit.
+
+How close to absolute zero? 2.725Kelvin sounds like a small number. Itis.
+
+The distance between 2.725Kelvin and absolute zero is smaller thanthe distance
+between the freezing pointof water and a mildly cool autumn day.
+
+The universe is by any reasonablestandard extraordinarily cold.
+
+It beganin a state of almost unimaginable heat.
+
+The temperatures in the first momentsafter the big bang reached valuesmeasured
+in trillions of Kelvin and hasbeen cooling ever since as it expandsand the
+energy within it spreads acrossan ever larger volume.
+
+The CNBtemperature has been droppingcontinuously since the Big Bang.
+
+380,000years after the Big Bang, it wasapproximately 3,000 Kelvin,
+thetemperature of a dim star. Today, 13.8billion years later, it is 2.725Kelvin.
+
+In another 13.8 billion years,it will be approximately half that.
+
+Theuniverse is cooling. It has always beencooling and it will continue
+coolingwithout limit toward the absolute zeroit will approach but never reach
+acrosstime scales that make the current age ofthe universe seem brief.
+
+Why thismatters? The 2.725Kelvin background temperature has aconsequence that
+is easy to overlook.Any object placed in space, aspacecraft, an asteroid,
+a human beingwill eventually equilibrate to thebackground temperature if left
+longenough and far enough from any heatsource.
+
+In the absence of sunlight,[music] in the absence of any internalheat
+generation, the equilibriumtemperature of an object in deep spaceis 2.725Kelvin.
+
+This is the cold that spaceoffers everything within it.
+
+Notinstant, not violent,slow, patient, and inevitable.
+
+Theuniverse gradually drawing the warmthfrom everything it contains,
+one photonat a time across time scales that haveno human equivalent.
+
+The universe is nottrying to freeze you. It is simply very,very cold.
+
+And it has a great deal oftime. The universe's average temperatureis 2.
+
+725Kelvin. The universe is not uniform.
+
+Itcontains regions far colder than theaverage places where the temperaturedrops
+to within a fraction of a degreeof absolute zero, where matter exists instates
+that have no analog anywhere inordinary experience.
+
+And it contains in at least one case aplace colder than anything the
+naturaluniverse has produced on its own. TheBoomerang Nebula.
+
+Approximately 5,000light years from Earth in theconstellation Centurus lies a
+structurecalled the Boomerang Nebula.
+
+Aprotolanetary nebula formed by a dyingstar expelling its outer layers
+intospace at high velocity.
+
+The BoomerangNebula is the coldest known naturallyoccurring place in the
+observableuniverse. Its temperature has beenmeasured at approximately 1 Kelvin,
+1°above absolute zero and colder than thecosmic microwave background itself.
+
+Thislast point requires a moment ofattention. The CMBB fills all of spaceat 2.
+
+725Kelvin. For any object to be colder thanthe CMBB, it must be actively
+losingheat faster than the backgroundradiation is supplying it.
+
+The BoomerangNebula achieves this through a processof rapid adabatic expansion.
+
+The gasexpelled from the central star isexpanding so quickly that it
+coolsfaster than the CMBB can warm it.
+
+In thesame way that gas released rapidly froma pressurized canister feels cold.
+
+Theresult is a region of space colder thanthe background temperature of
+theuniverse itself. An island ofextraordinary cold in an alreadyextraordinarily
+cold cosmos. The humanachievement.
+
+Here is where the storytakes an unexpected turn.
+
+The coldesttemperature ever achieved on Earth andtherefore the coldest
+temperature everrecorded anywhere was not produced byany natural process.
+
+It was produced ina laboratory.
+
+In 2021, researchers at MIT cooled acloud of sodium and lithium atoms
+toapproximately 450 pico Kelvin, 450trillionths of a Kelvin above absolutezero.
+
+This is not merely colder than theBoomerang Nebula.
+
+It is approximately 2billion times colder than the BoomerangNebula.
+
+It is the closest any matter hasever come to absolute zero.
+
+At thesetemperatures, matter behaves in waysthat have no classical analog.
+
+Atomsform a Bose Einstein condensate, a stateof matter predicted by Einstein in
+1924and first achieved in 1995in which a group of atoms effectivelymerge into a
+single quantum entitybehaving as one coherent wave functionrather than as
+individual particles.The distinction between individual atomsdissolves.
+
+Quantum effects becomevisible at scales large enough toobserve directly.
+
+This is not a state ofmatter that exists anywhere in thenatural universe.
+
+It is a state thatonly exists because human beings builtthe equipment to create
+it. coolingmatter to temperatures that the universeitself in 13 8 billion years
+ofexistence has never naturally producedthe scale of cold.
+
+To appreciate therange of temperatures in the universe,consider the span from
+the coldest tothe hottest. The coldest laboratorytemperature 450 picelvin.
+
+The boomerang nebula 1 Kelvin. The CMBB2.
+
+725Kelvin the coldest natural temperatureon Earth184 Kelvin.
+
+Room temperatureapproximately 293 Kelvin. The surface ofthe sun 5,778Kelvin.
+
+The core of the sun 15 millionKelvin.
+
+The temperature of the universe1 second after the Big Bang,
+approximately 10 billion Kelvin.
+
+[music]The universe spans more than 22 ordersof magnitude in temperature from
+thelaboratory cold that humans have brieflyachieved to the primordial heat of
+theBig Bang. We live as it happens near thecold end of that range,
+much closer toabsolute zero than to the temperaturesat which the universe began.
+
+Everythingwe have discussed so far might suggestthat space is simply very cold.
+
+A vastfreezer, dark and silent that wouldrapidly chill anything placed within
+itto temperatures approaching absolutezero. This is not what happens.
+
+Thereality of thermal physics in space isconsiderably stranger and
+considerablymore dangerous than the simple pictureof a cosmic refrigerator
+suggests.Understanding why requires understandinghow heat actually moves.
+
+The threemethods of heat transfer.
+
+There areexactly three ways that heat can movefrom one place to another.
+
+Conduction isthe transfer of heat through directcontact between objects.
+
+A metal spoonin a hot cup of coffee conducts heatfrom the coffee to your hand
+because thefastm moving molecules of the hot liquidcollide with the molecules
+of the spoon,transferring kinetic energy along thelength of the metal to your
+fingers.Convection is the transfer of heatthrough the movement of fluids,
+liquids,or gases. A radiator heats a room bywarming the air directly around it,
+which rises as it expands, pullingcooler air in from below and creating
+acirculation that gradually raises thetemperature of the entire room.
+
+Radiation is the transfer of heatthrough electromagnetic waves,
+infraredradiation that all objects emit simplyby virtue of having a temperature
+aboveabsolute zero. The sun warms the earthnot through conduction or convection.
+
+There is no material connecting them butthrough radiation.
+
+The earth radiatesheat back into space the same way.
+
+Inspace, conduction and convection do notwork.
+
+Conduction requires contactbetween molecules.
+
+Convection requires afluid medium to circulate.
+
+Space is for practical purposes avacuum.
+
+There are no molecules toconduct heat along, no fluid tocirculate.
+
+The only heat transfermechanism available in space isradiation. The consequence.
+
+This has aconsequence that seems paradoxical untilyou think it through.
+
+In space, objectsdo not lose heat quickly.
+
+They lose heatonly through radiation, a relativelyslow process compared to
+conduction orconvection. An object in space in theabsence of any heat source
+will cooltoward the background temperature of2.
+
+725Kelvin, but it will do so slowly overhours or days, not in the seconds
+thatdirect contact with a cold medium wouldproduce.
+
+This is why astronauts do notinstantly freeze when they step outsidethe
+International Space Station.
+
+Thevacuum of space cannot conduct cold intotheir bodies.
+
+There are no coldmolecules rushing in to carry theirwarmth away.
+
+But this cuts both ways.The same absence of conduction andconvection that
+prevents rapid freezingalso prevents rapid cooling when anobject is being
+heated. In directsunlight in low Earth orbit, anunprotected surface
+receivesapproximately 1,361watts per square meter of solarradiation and has
+almost no way to shedthat heat except by radiating it away.
+
+Temperatures on the sunlit side of theISS reach approximately120° C.
+
+Temperatures on the shadowedside minutes later as the station orbitsdrop to
+approximately150° C. The same object, the same orbit,a temperature swing of
+270°in minutes. The space suit as thermalengineering.
+
+The modern space suit isamong other things an extraordinarilysophisticated
+thermal management system.
+
+It must simultaneously protect againstthe solar heating that would
+otherwiseraise surface temperatures to lethallevels and prevent the radiative
+coolingthat would otherwise cause the suitedastronaut to lose body heat faster
+thantheir metabolism can replace it.
+
+It doesthis through multiple layers ofinsulation, reflective outer surfaces,
+and an internal liquid cooling andventilation system that actively managesthe
+astronaut's body temperature duringphysical exertion.
+
+The engineeringchallenge is not keeping astronauts warmin the cold of space.
+
+It is keeping themat a stable temperature in anenvironment where the only heat
+transfermechanism is radiation and where thedifference between full sunlight
+andfull shadow is larger than thedifference between a sauna and the fragsurface
+of Antarctica. Space is notsimply cold.
+
+It is thermally extreme inboth directions simultaneously andutterly indifferent
+to which directionyou need it to be.
+
+The question of whathappens to an unprotected human body inspace has been
+answered by physics longbefore anyone had to find outexperimentally.
+
+The answer is not what popular culturesuggests. It is in some ways worse.
+
+Themyths. The most persistent myth is thatan unprotected human in space
+wouldinstantly freeze. That the cold wouldkill within seconds.
+
+The body stiffeningand crystallizing in the vacuum likesomething dropped into
+liquid nitrogen.This does not happen.
+
+As we establishedin the previous section, space cannotconduct cold into a body.
+
+There are nomolecules to carry the warmth awaythrough contact.
+
+The body loses heatonly through radiation and radiation isslow.
+
+An unprotected body in deep spaceaway from any heat source would takehours to
+cool to lethal temperaturesthrough radiation alone.
+
+The second mythis that the body would explode.
+
+That thedifference in pressure between thebody's interior and the vacuum
+outsidewould cause catastrophic decompression.This also does not happen.
+
+Human skin isstrong enough to contain the body'sinternal pressure.
+
+You would notexplode.What actually happens?
+The vacuum is theimmediate problem, not the cold and notthe pressure.
+
+Within approximately 15seconds of exposure to vacuum, theoxygen in the blood
+would be depletedand consciousness would be lost.
+
+Themechanism is not suffocation in theconventional sense.
+
+It is the [music]rapid deoxxygenation of the blood asdissolved gases expand and
+the lungs areunable to function in [music] theabsence of atmospheric pressure.
+
+Eilism,the formation of water vapor bubbles inbodily fluids due to reduced
+pressurewould begin almost immediately.
+
+Themoisture on the tongue and eyes wouldevaporate. Saliva would boil.
+
+The skinand soft tissues would swell asdissolved gases in bodily fluids
+formbubbles, giving the body a bloatedappearance without causing it torupture.
+
+The lungs would need to beemptied rapidly, holding a breath invacuum,
+risks rupturing the alvoli asthe gas expands.
+
+Exhaling beforeexposure is the correct instinct,counterintuitive as it feels,
+death fromlack of oxygen would occur withinapproximately 90 seconds to 2
+minutes ofexposure, long before the cold becamerelevant, long before any
+dramaticphysical destruction of the body.
+
+Thevacuum of space does not freeze you. Itdoes not explode you.
+
+It simply quietlytakes the air. Everything we havediscussed, the 2.
+
+7 Kelvin background,the Boomerang Nebula, the thermalextremes of low Earth
+orbit, describesthe universe as it is now, warm enoughin the right places for
+stars to burnand planets to form and life to exist onat least one of them.
+
+The universe willnot always be this way. The longcooling.
+
+The second law ofthermodynamics states that in any closedsystem,
+entropy increases over time.Heat flows from hot to cold.
+
+Orderdissolves into disorder.
+
+Energy spreadsfrom concentrated sources into diffusebackgrounds until no
+further spreadingis possible.
+
+Applied to the universe asa whole, this principle has an endpoint.
+
+The stars are burning throughtheir fuel.
+
+In approximately 100trillion years, 10,000 times the currentage of the universe,
+the last stars willexhaust their hydrogen and go dark. Nonew stars will form.
+
+The galaxies willgo cold and black, populated only bystellar remnants.
+
+White dwarfs coolingtoward the background temperature.
+
+Neutron stars spinning down.
+
+Black holesslowly evaporating through hawkingradiation across time scales so
+vastthey make a trillion years seem brief.
+
+Eventually the black holes willevaporate. The last one depending on itsmass.
+
+It will take approximately 10 tothe power of 100 years to disappearentirely.
+
+A number so large that writingit out in standard notation wouldrequire more
+digits than there are atomsin the observable universe.
+
+After that, nothing remains but anincreasingly cold, increasingly
+sparsedistribution of fundamental particles inan everexpanding void.
+
+The temperatureof the universe will continue to falltoward absolute zero. The 2.
+
+7 Kelvin oftoday dropping to 2 Kelvin, then one,then fractions,
+then fractions offractions in a cooling that has no endand no bottom.
+
+This is the heat death ofthe universe.
+
+Not an explosion, not acollapse, a slow, patient, inevitableapproach toward a
+cold so profound thatno process of any kind can occur.
+
+Auniverse at maximum entropy, perfectly,finally, and permanently still.
+
+Theuniverse began in unimaginable heat. Itwill end in unimaginable cold.
+
+Andsomewhere between those two extremes, ona warm, rocky planet orbiting an
+averagestar, something briefly became aware ofboth. Rest now. The cold can wait.
+
+>>
+[music][music][music][music][music][music]

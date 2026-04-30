@@ -1,0 +1,1034 @@
+Welcome to the Science for Sleep channelwhere we explore the wonders of
+theuniverse in a calm and relaxing way.Raise your hand and look at it.
+
+Fivefingers, skin, bone, the small linesacross your knuckles,
+the way the lightcatches it differently depending onwhere you are right now.
+
+Now considerthe possibility that none of it is whatyou think it is.
+
+Not a delusion, not adream, something more precise thaneither of those.
+
+A computational processrunning on hardware that exists outsideanything you can
+observe, generating theexperience of a hand and light and theroom you're in and
+the version of youthat is reading these words with suchfidelity that no
+measurement you couldmake would reveal the difference.
+
+Thisis the simulation hypothesis and it isnot a fringe idea entertained by
+peoplewho have watched too many films.
+
+It is aformal logical argument published in apeer-reviewed philosophy journal
+thathas been taken seriously by physicists,philosophers, and some of the
+mostprominent technologists alive.
+
+In thenext 30 minutes, we are going to gothrough the argument carefully.
+
+Thelogic that makes it difficult todismiss, the physics that unexpectedlyseems
+to support it, the objections thatserious scientists have raised againstit,
+and the question that sits at theend of all of it, if this is asimulation,
+does that change anythingabout what it means to be here?
+Beforewe begin, drop a comment.
+
+Tell us whereyou are in the world right now and whattime it is where you are.
+
+There issomething quietly strange about peoplein different places at different
+hoursall watching the same video and askingthe same question about whether any
+ofit is real. We want to know who is outthere. Let's find out together.
+
+In 2003,a Swedish philosopher named NickBostonramm published a paper in
+thejournal Philosophical Quarterly with atitle that understated its
+contentsconsiderably. Are you living in acomputer simulation?
+The paper was not science fiction. Itwas not speculation dressed asphilosophy.
+
+It was a formal logicalargument structured, precise and deeplydifficult to
+refute that has occupiedthe attention of physicists,philosophers and
+technologists eversince. Its conclusion was not that weare living in a
+simulation. Itsconclusion was considerably moreunsettling than that.
+
+The trillemmaBoston's argument rests on threepropositions.
+
+He calls them thetrillemma. At least one of them, heargues, must be true.
+
+The difficulty isthat all three are deeply uncomfortablein their own way.
+
+Proposition one.Almost all civilizations at our level oftechnological
+development go extinctbefore reaching the capability to rundetailed simulations
+of conscious minds.The technology required to simulate anentire universe or
+even a singleconscious mind with sufficient fidelityis so far beyond our
+current capabilitythat something catastrophic happens toevery civilization
+before it gets there.The great filter perhaps nuclear war,climate collapse,
+some threshold that nospecies successfully crosses.
+
+Proposition two, almost alltechnologically advanced civilizationsthat do
+survive to the point of havingsimulation capability choose not to useit.
+
+Perhaps they lose interest inrunning ancestor simulations.
+
+Perhaps they develop ethical frameworksthat forbid it.
+
+Perhaps thecomputational cost makes it impracticaleven for civilizations far
+beyond ourown. For whatever reason, thesimulations do not get run.
+
+Propositionthree. We are almost certainly living ina computer simulation right
+now. Thelogic connecting these threepropositions is straightforward.
+
+Ifcivilizations regularly survive totechnological maturity and regularlychoose
+to run simulations of consciousminds, historical simulations,
+ancestor simulations,explorations of alternative histories,
+then the number of simulated minds inexistence would vastly outnumber thenumber
+of minds in base reality.A civilization capable of running suchsimulations
+might run millions of them.
+
+Each simulation might contain billionsof conscious minds.
+
+The ratio ofsimulated to nonsimulated minds would beastronomically large.
+
+If you are a mindand you are then the overwhelmingstatistical likelihood is
+that you areone of the simulated ones.
+
+Unless, ofcourse, one of the first twopropositions is true.
+
+The statistics,the mathematical force of Bostonramm'sargument becomes clearer
+when youconsider the numbers.
+
+A singletechnologically mature civilizationrunning ancestor simulations
+mightcreate thousands of simulated universes,each containing billions of
+simulatedminds. If even a small fraction ofadvanced civilizations do this,
+thetotal number of simulated minds acrossall simulations would exceed the
+numberof minds in base reality by many ordersof magnitude.
+
+In a universe wheresimulated minds vastly outnumber nonsimulated ones,
+the prior probabilitythat any given mind, including yours,
+including the one reading these wordsright now, is a simulated mindapproaches
+certainty. This is not aclaim that the simulation is real.
+
+It isa claim about probability distributions.
+
+If you have no way of determiningwhether you are simulated or not and wewill
+discuss whether such adetermination is possible later then therational prior is
+to assign probabilityproportional to the population of mindsin each category
+and the simulatedcategory if simulations run is almostcertainly much larger.
+
+Why this is hardto dismiss.
+
+The temptation on firstencountering Bostonramm's argument is todismiss it as
+clever word play aninteresting puzzle that does not bear onanything real.
+
+This temptation isunderstandable. It is also onexamination difficult to justify.
+
+Theargument does not rest on any exoticphysics or unproven mathematics.
+
+It rests on three observations.
+
+That consciousness can in principle besubstrate independent.
+
+That a mindrunning on silicon is a mind as real asone running on neurons.
+
+Thatcomputational power tends to increaseover time.
+
+And that advancedcivilizations, if they exist andsurvive, would have access
+tocomputational resources vastly exceedingour own.
+
+None of these three premises isobviously false.
+
+And if none of them isfalse, the trillemma holds.
+
+You mustchoose which of the three propositionsyou believe and none of the
+choices iscomfortable. Either something killsalmost every advanced
+civilizationbefore it can run simulations, orsomething causes almost every
+advancedcivilization to choose not to. or youare right now in one.
+
+Bostonramm himselfhas said that he genuinely does not knowwhich proposition is
+true. He has alsosaid that he hopes it is the thirdbecause if it is not the
+third, one ofthe first two must be.
+
+And both of thosesuggest something very dark about thefuture of civilizations
+like ours. Ifyou were living inside a simulation,what would you expect to see?
+This isnot a rhetorical question. It has aprecise answer.
+
+And the answer whencompared to the universe we actuallyobserve produces a set
+of coincidencesthat are either deeply meaningful orentirely accidental.
+
+And distinguishingbetween those two possibilities turnsout to be
+extraordinarily difficult. Thecomputational universe.
+
+A simulation bydefinition is a computational process.
+
+It takes inputs, applies rules, producesoutputs.
+
+The rules are the physics ofthe simulated world.
+
+The laws thatgovern how matter and energy behave, howforces interact,
+how time progresses. Ifour universe is a simulation, itsphysics laws are code,
+notmetaphorically code. Literallymathematical rules being executed bysome
+computational substrate outside thesimulation producing the appearance of
+aphysical world from the inside.
+
+Whatwould we expect the physics of asimulated universe to look like?
+Wewould expect it to be mathematicallyprecise.
+
+The laws of a simulation must be exact.
+
+A computational process cannot tolerateambiguity in its fundamental rules.
+
+Andour universe's physics is to a degreethat continues to astonish
+physicistsmathematically exact.
+
+The constants ofnature, the speed of light, the strengthof gravity,
+the charge of the electronare not approximate.
+
+They are precise tomore decimal places than any measurementcan currently verify.
+
+We would expectthe simulation to have a minimum lengthscale,
+a pixel size below which thesimulation does not render detailbecause rendering
+infinitely smallscales would require infinitecomputational resources.
+
+Our universehas exactly this. The plank lengthapproximately 1.
+
+6 and 6 * 10 ^ of -35 mis the smallest length that currentphysics considers
+physically meaningful.Below this scale, the concept ofdistance breaks down.
+
+Space itselfappears to become discontinuous.
+
+We would expect a maximum speed, a limiton how fast information can
+propagatethrough the simulation, analogous to theclock speed of a processor.
+
+Our universehas exactly this.
+
+The speed of light,299,792km/s,is an absolute limit that nothing canexceed.
+
+Information cannot travelfaster. causality depends on it. Theobserver effect.
+
+Perhaps the mostsuggestive parallel between simulationand reality involves
+quantum mechanics.In quantum mechanics, particles do nothave definite
+properties until they areobserved.
+
+An electron does not have adefinite position until a measurement ismade.
+
+The act of observation causes thewave function to collapse from a
+superpposition of possibilities into a singledefinite outcome.
+
+To a programmerdesigning a simulation for efficiency,this behavior would make
+perfect sense.Rendering every particle in the universeto full detail at all
+times, whether ornot anything is observing it would becomputationally wasteful.
+
+A moreefficient approach would be to renderthings in detail only when they
+areobserved, leaving unobserved regions ina lower resolution probabilistic
+stateuntil attention is directed toward them.
+
+This is arguably exactly what quantummechanics describes.
+
+The universe appears not to botherspecifying the precise state of thingsthat
+nobody is looking at. It maintainsa superp position, a range ofpossibilities
+until observation demandsa definite answer.
+
+Whether this reflectsthe computational efficiency of asimulation or simply the
+fundamentalnature of quantum reality is a questionthat the observation alone
+cannotanswer. But the parallel is preciseenough to be uncomfortable.
+
+Theparallels between simulation and realitydiscussed in the previous section
+couldbe dismissed as coincidence.
+
+Interestingpatterns that reflect the nature ofmathematics rather than the
+nature ofcomputation.A universe governed by precisemathematical laws does not
+necessarilyimply a programmer.
+
+It might simplyimply that mathematics is the languagereality speaks.
+
+But then in 2010, aphysicist named S. James Gates Jr.
+
+foundsomething in the equations of stringtheory that is considerably harder
+todismiss. Error correcting codes inphysics.
+
+Gates is a theoreticalphysicist at the University of Marylandspecializing in
+super symmetry, amathematical framework that extends thestandard model of
+particle physics.While working through the complexequations of super symmetric
+fieldtheory, he discovered somethingunexpected embedded in the mathematics.
+
+The equations contained structures thatwere mathematically identical to
+aspecific type of computer code.
+
+Errorcorrecting codes used in browsersoftware to ensure accurate
+datatransmission across the internet.
+
+Thesecodes, specifically a class calleddoubly even self-dual linear binaryerror
+correcting block codes are notsimple structures.
+
+They aresophisticated algorithms designed todetect and correct errors in
+digitaldata transmission, ensuring thatinformation sent across a networkarrives
+intact, even if individual bitsare corrupted along the way.
+
+Findingthem embedded in the fundamentalequations of physics was by Gates's
+owndescription the last thing he expected.
+
+What this might mean, the presence oferror correcting code structures in
+themathematics of fundamental physics isnot in itself proof of simulation.
+
+It ispossible that these structures appearbecause mathematics itself has a
+deepinternal consistency that producessimilar patterns in different contexts.
+
+That the same logical structures thatmake good error correcting codes
+alsoappear in consistent physical theorieswithout any causal connection
+betweenthem. But the simulation interpretationis straightforward.
+
+If the universe is acomputational process, it would neederror correcting
+mechanisms to maintainconsistency over time to prevent theaccumulation of
+computational errorsfrom degrading the simulation.
+
+Thepresence of error correcting codestructures in the fundamental
+equationsmight be the mathematical signature ofexactly this mechanism.
+
+Gates has beencareful not to overstate the finding.
+
+Hedescribes it as a surprising discoverythat raises interesting questions
+ratherthan a confirmation of any particularinterpretation.
+
+But he has also saidpublicly that the discovery caused himto take the
+simulation hypothesis moreseriously than he had before.
+
+JohnWheeler and it from bit.
+
+Gates's findingconnects to a broader tradition intheoretical physics associated
+with JohnWheeler, one of the most influentialphysicists of the 20th century
+whoworked with both Einstein and Boore andcoined the terms black hole and
+quantumfoam. In the final decades of hiscareer, Wheeler became
+increasinglyconvinced that information, not matter,not energy,
+was the fundamentalconstituent of reality.
+
+He summarizedthis conviction in a phrase it from bit.
+
+Everything that exists, every particle,every force, every event in the
+universederives its existence from information,from binary choices,
+from answers to yesor no questions.
+
+The physical world isat its most fundamentallevelformational.
+
+If Wheeler was right, the universe isnot made of matter that can be
+describedmathematically. It is made ofmathematics of information thatmanifests
+as the appearance of matter.
+
+The distinction between a universe and asimulation of a universe begins
+todissolve. A universe made of informationis a universe that is in the
+mostfundamental sense computational.
+
+Whetherit is being computed by somethingoutside itself is the question
+thatphysics cannot yet answer.
+
+Thesimulation hypothesis is intellectuallyseductive.
+
+The parallels betweencomputational systems and physicalreality are genuine.
+
+Bostonramm'strilmma is logically rigorous.
+
+Gates'sdiscovery is genuinely surprising.
+
+And yet there are serious objections,not dismissals, serious
+carefullyconsidered objections from physicistsand philosophers who have
+examined theargument closely and found it wanting.
+
+The computational cost problem. The mostimmediate objection concerns scale.
+
+Simulating a universe is not likesimulating a video game.
+
+A video gamerenders only what the player can see atresolutions the human eye
+candistinguish, ignoring everything outsidethe frame.
+
+A universe simulation, if itis to be physically indistinguishablefrom base
+reality, must simulate everyparticle, every quantum interaction,
+every field fluctuation at every pointin space continuously to
+arbitraryprecision. The computational resourcesrequired for this are not merely
+large.They are by current estimates largerthan anything physically possible
+withinour observable universe.
+
+The number ofoperations required to simulate a singlesecond of quantum reality
+at the plankscale exceeds the number of atoms in theobservable universe by many
+orders ofmagnitude. A civilization capable ofrunning such a simulation would
+need tobe not just more advanced than us, butmore advanced in ways that may
+requirephysics beyond anything we currentlyunderstand.
+
+Whether such advancement ispossible, whether the computationalresources
+required could ever physicallyexist is genuinely unknown.
+
+The infiniteregress problem.
+
+If we are in asimulation, the civilization running thesimulation exists in some
+base reality.But Boston's argument applies to thatcivilization too.
+
+If they aretechnologically advanced, they mightalso be in a simulation.
+
+And thecivilization running their simulationmight also be in a simulation.
+
+Theregress has no obvious stopping point.
+
+Either there is a base realitysomewhere, a bottom level that is notitself
+simulated or the regress isinfinite which raises its own set ofproblems.
+
+The simulation hypothesis doesnot explain reality.
+
+It defers theexplanation one level up and thenpotentially infinitely.
+
+Thefalsifiability problem, the mostfundamental scientific objection,
+is theone raised against multiverse theoriesin an earlier part of this series.
+
+CarlPa argued that a scientific theory mustmake predictions that could in
+principlebe proven wrong. A theory that isconsistent with every
+possibleobservation is not a scientific theory.It is a metaphysical framework.
+
+Thesimulation hypothesis in its standardform makes no testable predictions.
+
+Any observation we make is consistentwith simulation because a
+perfectsimulation would be by definitionindistinguishable from base reality.
+
+There is no experiment we could perform,no observation we could make that
+woulddefinitively rule it out. This does notmake the hypothesis false.
+
+It makes itin the strict scientific sense, not ahypothesis at all.
+
+It is a philosophicalposition, coherent, interesting,possibly correct,
+but not falsifiable byany means currently available.
+
+Whetherthat disqualifies it from seriousconsideration is itself a
+philosophicalquestion, one that physicists continueto disagree about.
+
+The simulationhypothesis is not a fringe ideaentertained only by science
+fictionwriters and internet philosophers.
+
+It is a question that some of the mostrigorous thinkers in physics,philosophy,
+and technology have engagedwith seriously, and their answers aredivided in ways
+that tell you somethingimportant about the state of thequestion.
+
+Those who take it seriously.
+
+Elon Musk stated at a technologyconference in 2016 that he believed
+theprobability of us living in basereality, a non simulated universe
+wasapproximately one in billions.His reasoning followed Boston directly.
+
+Video games have advanced from pong tophotorealistic simulations withindecades.
+
+And if this trajectorycontinues, the distinction betweensimulation and reality
+will eventuallybecome indistinguishable.
+
+Neil deGrasse Tyson has said that hethinks the probability of the
+simulationhypothesis being correct is higher than50%.His reasoning is similar.
+
+The gapbetween our current computationalcapability and what a
+sufficientlyadvanced civilization could achieve isso large that ruling out the
+possibilityseems premature.
+
+Max Tegmark whose mathematical universehypothesis we discussed in the
+previousvideo argues that if mathematicalstructures are physically real,
+thedistinction between a simulated universeand a nonsimulated universe may not
+bemeaningful. A universe that isfundamentally mathematical is a universethat is
+in some sense alreadycomputational.
+
+David Charmers, one of the mostrespected philosophers of mind workingtoday,
+published a book in 2022arguing that even if we are in asimulation,
+this does not make ourexperiences less real. The simulation isour reality.
+
+The objects in it are asreal as anything in base reality couldbe.
+
+Virtual reality, he argues, isgenuine reality. Those who areskeptical.
+
+Sabine Hosenfelder, a theoreticalphysicist and prominent sciencecommunicator,
+has argued that thesimulation hypothesis fails the basicrequirements of
+scientific theory. Itmakes no predictions.It cannot be tested.
+
+It is, she argues,indistinguishable from theology, a claimabout an unobservable
+creator thatorganizes reality according to its will.
+
+George Ellis and Joe Silk writing innature argued that theories whichabandon
+testability including thesimulation hypothesis and certainmultiverse theories
+risk damaging theintegrity of science by blurring theboundary between physics
+andmetaphysics. Michioaku has expressedskepticism about the
+computationalfeasibility, arguing that simulatingquantum reality at the
+requiredresolution would require a computerlarger than the universe
+beingsimulated, which raises obviouspractical objections where the
+consensussits. There is no consensus amongphysicists and philosophers who
+haveengaged seriously with the question.Opinion is genuinely divided.
+
+Those whotake it seriously are not credulous.
+
+Those who are skeptical are notdismissive.
+
+The question sits at theboundary between what science cancurrently address and
+what it cannot.And that boundary, as we have seenthroughout this series,
+is one of themost interesting places in all of humanknowledge.
+
+Let us assume for the finaltime in this video that the simulationhypothesis is
+correct. That somewhereoutside what we can observe, what we canmeasure,
+what we can even conceptualize,something is running a computation.
+
+Andthat computation is this.
+
+The stars, thegalaxies, the oceans, the people, theconversations,
+the grief and the joy andthe boredom and the love.
+
+All of itexecuting on hardware we cannot access.
+
+Written in code we cannot read forpurposes we cannot know. Does it matter?
+The Decart problem. The philosopherRenee Decart asked a version of thisquestion
+in 1641before computers, before simulation,before any of the physics we
+havediscussed in this video existed.
+
+Heasked, "How do I know that an evil demonis not deceiving me?
+How do I know thateverything I perceive is not anillusion?
+that the external world Ibelieve I am experiencing is not afabrication a false
+reality constructedto deceive me.
+
+His answer was the mostfamous sentence in the history ofphilosophy.
+
+Kogito erggo sum I thinktherefore I am.
+
+Whatever is happeningdemon or simulation or base reality thethinking is real.
+
+The experience ofbeing here right now processing thesewords is real.
+
+Even if the substrate iscomputational, the experience running onthat substrate
+is genuine. Pain hurts ina simulation. Love matters in asimulation.
+
+Loss is real in asimulation.
+
+David Charmers 300 years after Daycartmade the same point in differentlanguage.
+
+Virtual reality is genuinereality.
+
+The simulation does notdiminish the experience. It is theexperience.
+
+What changes? If we are in asimulation, some things change.
+
+Thequestion of what existed before the bigbang has a different answer.
+
+Whatevercomputational process initiated ouruniverse.
+
+The question of whetherphysical laws are necessary orcontingent has a different
+answer. Theyare the rules the programmer chose.
+
+Thequestion of whether the universe has apurpose has a different answer.
+
+Itmight. If whoever is running it had onein mind.
+
+And the question of whathappens after death becomes in principledifferent,
+not necessarily better. Asimulation can be turned off. Files canbe deleted.
+
+The programmer may have nointerest in preserving what happensafter a simulated
+mind reaches the endof its rendered path or and this is theversion that is
+harder to think aboutthe file might be saved. What does notchange?
+Everything you have ever felt is real.Every person you have loved is real.
+
+Every moment of beauty or difficulty orordinary Tuesday afternoon is real inthe
+sense that matters it wasexperienced. It happened.
+
+Whatever thesubstrate, the experience is the thing.Daycart was right.
+
+The thinking is real.The feeling is real. The being here inthis moment is real.
+
+If this is asimulation,something created it.
+
+And that somethingexists in a reality we cannot access,cannot observe and
+cannot imagine.Which means the deepest truth about ourexistence may be
+permanently beyond ourreach.
+
+But the existence itself, thisright now, whatever it is, is not. Restnow.
+
+Whatever this is, you are in it.And for the moment, that is enough.
+
+In2003,a Swedish philosopher named NickBostonramm published a paper in
+thejournal Philosophical Quarterly with atitle that understated its
+contentsconsiderably. Are you living in acomputer simulation?
+The paper was not science fiction. Itwas not speculation dressed asphilosophy.
+
+It was a formal logicalargument structured, precise and deeplydifficult to
+refute that has occupiedthe attention of physicists,philosophers and
+technologists eversince. Its conclusion was not that weare living in a
+simulation. Itsconclusion was considerably moreunsettling than that.
+
+The trillemmaBoston's argument rests on threepropositions.
+
+He calls them the trillemma. At leastone of them, he argues, must be true.
+
+The difficulty is that all three aredeeply uncomfortable in their own way.
+
+Proposition one, almost allcivilizations at our level oftechnological
+development go extinctbefore reaching the capability to rundetailed simulations
+of conscious minds.The technology required to simulate anentire universe or
+even a singleconscious mind with sufficient fidelityis so far beyond our
+current capabilitythat something catastrophic happens toevery civilization
+before it gets there.The great filter perhaps nuclear war,climate collapse,
+some threshold that nospecies successfully crosses.
+
+Proposition two, almost alltechnologically advanced civilizationsthat do
+survive to the point of havingsimulation capability choose not to useit.
+
+Perhaps they lose interest inrunning ancestor simulations.
+
+Perhaps they develop ethical frameworksthat forbid it.
+
+Perhaps thecomputational cost makes it impracticaleven for civilizations far
+beyond ourown. For whatever reason, thesimulations do not get run.
+
+Propositionthree. We are almost certainly living ina computer simulation right
+now. Thelogic connecting these threepropositions is straightforward.
+
+If civilizations regularly survive totechnological maturity and regularlychoose
+to run simulations of consciousminds, historical simulations,
+ancestor simulations,explorations of alternative histories,
+then the number of simulated minds inexistence would vastly outnumber thenumber
+of minds in base reality. Acivilization capable of running suchsimulations
+might run millions of them.
+
+Each simulation might contain billionsof conscious minds.
+
+The ratio ofsimulated to nonsimulated minds would beastronomically large.
+
+If you are a mindand you are then the overwhelmingstatistical likelihood is
+that you areone of the simulated ones.
+
+Unless, ofcourse, one of the first twopropositions is true.
+
+The statistics,the mathematical force of Bostonramm'sargument becomes clearer
+when youconsider the numbers.
+
+A singletechnologically mature civilizationrunning ancestor simulations
+mightcreate thousands of simulated universes,each containing billions of
+simulatedminds. If even a small fraction ofadvanced civilizations do this,
+thetotal number of simulated minds acrossall simulations would exceed the
+numberof minds in base reality by many ordersof magnitude.
+
+In a universe wheresimulated minds vastly outnumber nonsimulated ones,
+the prior probabilitythat any given mind, including yours,
+including the one reading these wordsright now, is a simulated mindapproaches
+certainty. This is not aclaim that the simulation is real.
+
+It isa claim about probability distributions.
+
+If you have no way of determiningwhether you are simulated or not,
+and wewill discuss whether such adetermination is possible later,
+thenthe rational prior is to assignprobability proportional to thepopulation of
+minds in each category andthe simulated category if simulationsrun is almost
+certainly much larger. Whythis is hard to dismiss?
+The temptationon first encountering Bostonramm'sargument is to dismiss it as
+clever wordplay, an interesting puzzle that doesnot bear on anything real.
+
+Thistemptation is understandable.It is also on examination difficult tojustify.
+
+The argument does not rest onany exotic physics or unprovenmathematics.
+
+It rests on three observations.
+
+That consciousness can in principle besubstrate independent.
+
+That a mindrunning on silicon is a mind as real asone running on neurons.
+
+That computational power tends toincrease over time.
+
+And that advancedcivilizations, if they exist andsurvive, would have access
+tocomputational resources vastly exceedingour own.
+
+None of these three premises isobviously false.
+
+And if none of them isfalse, the trillemma holds.
+
+You mustchoose which of the three propositionsyou believe.
+
+And none of the choices iscomfortable.
+
+Either something killsalmost every advanced civilizationbefore it can run
+simulations, orsomething causes almost every advancedcivilization to choose not
+to. for youare right now in one.
+
+Bostonramm himselfhas said that he genuinely does not knowwhich proposition is
+true. He has alsosaid that he hopes it is the thirdbecause if it is not the
+third, one ofthe first two must be.
+
+And both of thosesuggest something very dark about thefuture of civilizations
+like ours. Ifyou were living inside a simulation,what would you expect to see?
+This isnot a rhetorical question. It has aprecise answer.
+
+And the answer whencompared to the universe we actuallyobserve produces a set
+of coincidencesthat are either deeply meaningful orentirely accidental.
+
+And distinguishingbetween those two possibilities turnsout to be
+extraordinarily difficult. Thecomputational universe.
+
+A simulation bydefinition is a computational process.
+
+It takes inputs, applies rules, producesoutputs.
+
+The rules are the physics ofthe simulated world.
+
+The laws thatgovern how matter and energy behave, howforces interact,
+how time progresses. Ifour universe is a simulation, itsphysics laws are code,
+notmetaphorically code. Literallymathematical rules being executed bysome
+computational substrate outside thesimulation producing the appearance of
+aphysical world from the inside.
+
+Whatwould we expect the physics of asimulated universe to look like?
+Wewould expect it to be mathematicallyprecise.
+
+The laws of a simulation must be exact.
+
+A computational process cannot tolerateambiguity in its fundamental rules.
+
+Andour universe's physics is to a degreethat continues to astonish
+physicistsmathematically exact.
+
+The constants ofnature, the speed of light, the strengthof gravity,
+the charge of the electronare not approximate.
+
+They are precise tomore decimal places than any measurementcan currently verify.
+
+We would expectthe simulation to have a minimum lengthscale,
+a pixel size below which thesimulation does not render detailbecause rendering
+infinitely smallscales would require infinitecomputational resources.
+
+Our universehas exactly this. The plank lengthapproximately 1.
+
+6 6 * 10 ^ of -35 m isthe smallest length that current physicsconsiders
+physically meaningful. Belowthis scale, the concept of distancebreaks down.
+
+Space itself appears tobecome discontinuous.
+
+We would expect a maximum speed, a limiton how fast information can
+propagatethrough the simulation, analogous to theclock speed of a processor.
+
+Our universehas exactly this.
+
+The speed of light299,792km/sis an absolute limit that nothing canexceed.
+
+Information cannot travelfaster. Causality depends on it. Theobserver effect.
+
+Perhaps the mostsuggestive parallel between simulationand reality involves
+quantum mechanics.In quantum mechanics, particles do nothave definite
+properties until they areobserved.
+
+An electron does not have adefinite position until a measurement ismade.
+
+The act of observation causes thewave function to collapse from a
+superpposition of possibilities into a singledefinite outcome.
+
+To a programmerdesigning a simulation for efficiency,this behavior would make
+perfect sense.Rendering every particle in the universeto full detail at all
+times, whether ornot anything is observing it, would becomputationally wasteful.
+
+A moreefficient approach would be to renderthings in detail only when they
+areobserved, leaving unobserved regions ina lower resolution probabilistic
+stateuntil attention is directed toward them.
+
+This is arguably exactly what quantummechanics describes.
+
+The universe appears not to botherspecifying the precise state of thingsthat
+nobody is looking at. It maintainsa superp position, a range ofpossibilities
+until observation demandsa definite answer.
+
+Whether this reflectsthe computational efficiency of asimulation or simply the
+fundamentalnature of quantum reality is a questionthat the observation alone
+cannotanswer. But the parallel is preciseenough to be uncomfortable.
+
+Theparallels between simulation and realitydiscussed in the previous section
+couldbe dismissed as coincidence.
+
+interestingpatterns that reflect the nature ofmathematics rather than the
+nature ofcomputation.A universe governed by precisemathematical laws does not
+necessarilyimply a programmer.
+
+It might simplyimply that mathematics is the languagereality speaks.
+
+But then in 2010, aphysicist named S. James Gates Jr.
+
+foundsomething in the equations of stringtheory that is considerably harder
+todismiss. Error correcting codes inphysics.
+
+Gates is a theoreticalphysicist at the University of Marylandspecializing in
+super symmetry, amathematical framework that extends thestandard model of
+particle physics.While working through the complexequations of super symmetric
+fieldtheory, he discovered somethingunexpected embedded in the mathematics.
+
+The equations contained structures thatwere mathematically identical to
+aspecific type of computer code, errorcorrecting codes used in browsersoftware
+to ensure accurate datatransmission across the internet.
+
+Thesecodes, specifically a class calleddoubly even self-dual linear binaryerror
+correcting block codes are notsimple structures.
+
+They aresophisticated algorithms designed todetect and correct errors in
+digitaldata transmission, ensuring thatinformation sent across a networkarrives
+intact, even if individual bitsare corrupted along the way.
+
+Findingthem embedded in the fundamentalequations of physics was by Gates's
+owndescription the last thing he expected.
+
+What this might mean the presence oferror correcting code structures in
+themathematics of fundamental physics isnot in itself proof of simulation.
+
+It ispossible that these structures appearbecause mathematics itself has a
+deepinternal consistency that producessimilar patterns in different contexts.
+
+That the same logical structures thatmake good error correcting codes
+alsoappear in consistent physical theorieswithout any causal connection
+betweenthem. But the simulation interpretationis straightforward.
+
+If the universe is a computationalprocess, it would need error
+correctingmechanisms to maintain consistency overtime to prevent the
+accumulation ofcomputational errors from degrading thesimulation.
+
+The presence of errorcorrecting code structures in thefundamental equations
+might be themathematical signature of exactly thismechanism.
+
+Gates has been careful not tooverstate the finding.
+
+He describes itas a surprising discovery that raisesinteresting questions
+rather than aconfirmation of any particularinterpretation.
+
+But he has also saidpublicly that the discovery caused himto take the
+simulation hypothesis moreseriously than he had before.
+
+JohnWheeler and it from bit.
+
+Gates's findingconnects to a broader tradition intheoretical physics associated
+with JohnWheeler, one of the most influentialphysicists of the 20th century
+whoworked with both Einstein and Boore andcoined the terms black hole and
+quantumfoam. In the final decades of hiscareer, Wheeler became
+increasinglyconvinced that information, not matter,not energy,
+was the fundamentalconstituent of reality.
+
+He summarizedthis conviction in a phrase it from bit.
+
+Everything that exists, every particle,every force, every event in the
+universederives its existence from information,from binary choices,
+from answers to yesor no questions.
+
+The physical world is at its mostfundamental levelformational.
+
+If Wheeler was right, the universe isnot made of matter that can be
+describedmathematically. It is made ofmathematics of information thatmanifests
+as the appearance of matter.
+
+The distinction between a universe and asimulation of a universe begins
+todissolve. A universe made of informationis a universe that is in the
+mostfundamental sense computational.
+
+Whetherit is being computed by somethingoutside itself is the question
+thatphysics cannot yet answer.
+
+Thesimulation hypothesis is intellectuallyseductive.
+
+The parallels betweencomputational systems and physicalreality are genuine.
+
+Bostonramm'strillemma is logically rigorous.
+
+Gates'sdiscovery is genuinely surprising.
+
+And yet there are serious objections,not dismissals, serious
+carefullyconsidered objections from physicistsand philosophers who have
+examined theargument closely and found it wanting.
+
+The computational cost problem. The mostimmediate objection concerns scale.
+
+Simulating a universe is not likesimulating a video game.
+
+A video gamerenders only what the player can see atresolutions the human eye
+candistinguish, ignoring everything outsidethe frame.
+
+A universe simulation, if itis to be physically indistinguishablefrom base
+reality, must simulate everyparticle, every quantum interaction,
+every field fluctuation at every pointin space continuously to
+arbitraryprecision. The computational resourcesrequired for this are not merely
+large.They are by current estimates largerthan anything physically possible
+withinour observable universe.
+
+The number ofoperations required to simulate a singlesecond of quantum reality
+at the plankscale exceeds the number of atoms in theobservable universe by many
+orders ofmagnitude. A civilization capable ofrunning such a simulation would
+need tobe not just more advanced than us, butmore advanced in ways that may
+requirephysics beyond anything we currentlyunderstand.
+
+Whether such advancement ispossible, whether the computationalresources
+required could ever physicallyexist is genuinely unknown.
+
+The infiniteregress problem.
+
+If we are in asimulation, the civilization running thesimulation exists in some
+base reality.But Boston's argument applies to thatcivilization too.
+
+If they aretechnologically advanced, they mightalso be in a simulation.
+
+And thecivilization running their simulationmight also be in a simulation.
+
+Theregress has no obvious stopping point.
+
+Either there is a base realitysomewhere, a bottom level that is notitself
+simulated or the regress isinfinite which raises its own set ofproblems.
+
+The simulation hypothesis doesnot explain reality.
+
+It defers theexplanation one level up and thenpotentially infinitely.
+
+Thefalsifiability problem, the mostfundamental scientific objection,
+is theone raised against multiverse theoriesin an earlier part of this series.
+
+CarlPauper argued that a scientific theorymust make predictions that could
+inprinciple be proven wrong.
+
+A theory thatis consistent with every possibleobservation is not a scientific
+theory.It is a metaphysical framework.
+
+Thesimulation hypothesis in its standardform makes no testable predictions.
+
+Any observation we make is consistentwith simulation because a
+perfectsimulation would be by definitionindistinguishable from base reality.
+
+There is no experiment we could perform,no observation we could make that
+woulddefinitively rule it out. This does notmake the hypothesis false.
+
+It makes itin the strict scientific sense not ahypothesis at all.
+
+It is a philosophicalposition coherent, interesting, possiblycorrect,
+but not falsifiable by anymeans currently available.
+
+Whether thatdisqualifies it from seriousconsideration is itself a
+philosophicalquestion, one that physicists continueto disagree about.
+
+The simulationhypothesis is not a fringe ideaentertained only by science
+fictionwriters and internet philosophers.
+
+It is a question that some of the mostrigorous thinkers in physics,
+philosophyand technology have engaged withseriously and their answers are
+dividedin ways that tell you somethingimportant about the state of thequestion.
+
+Those who take it seriously.
+
+Elon Musk stated at a technologyconference in 2016 that he believed
+theprobability of us living in basereality, a non simulated universe,
+wasapproximately one in billions.His reasoning followed Boston directly.
+
+Video games have advanced from pong tophotorealistic simulations withindecades.
+
+And if this trajectorycontinues, the distinction betweensimulation and reality
+will eventuallybecome indistinguishable.
+
+Neil deGrasse Tyson has said that hethinks the probability of the
+simulationhypothesis being correct is higher than50%.His reasoning is similar.
+
+The gapbetween our current computationalcapability and what a
+sufficientlyadvanced civilization could achieve isso large that ruling out the
+possibilityseems premature.
+
+Max Tegmark, whose mathematical universehypothesis we discussed in the
+previousvideo, argues that if mathematicalstructures are physically real,
+thedistinction between a simulated universeand a non simulated universe may not
+bemeaningful. A universe that isfundamentally mathematical is a universethat is
+in some sense alreadycomputational.
+
+David Charmers, one of the mostrespected philosophers of mind workingtoday,
+published a book in 2022arguing that even if we are in asimulation,
+this does not make ourexperiences less real. The simulation isour reality.
+
+The objects in it are asreal as anything in base reality couldbe.
+
+Virtual reality, he argues, isgenuine reality.
+
+Those who areskeptical,Sbine Hosenfelder, a theoreticalphysicist and prominent
+sciencecommunicator has argued that thesimulation hypothesis fails the
+basicrequirements of scientific theory. Itmakes no predictions.
+
+It cannot be tested. It is, she argues,indistinguishable from theology,
+a claimabout an unobservable creator thatorganizes reality according to its
+will.George Ellis and Joe Silk writing innature argued that theories
+whichabandon testability including thesimulation hypothesis and
+certainmultiverse theories risk damaging theintegrity of science by blurring
+theboundary between physics andmetaphysics.
+
+Michio Kaku has expressedskepticism about the computationalfeasibility,
+arguing that simulatingquantum reality at the requiredresolution would require
+a computerlarger than the universe beingsimulated, which raises
+obviouspractical objections where the consensussits.
+
+There is no consensus amongphysicists and philosophers who haveengaged
+seriously with the question.opinion is genuinely divided.
+
+Those whotake it seriously are not credulous.
+
+Those who are skeptical are notdismissive.
+
+The question sits at theboundary between what science cancurrently address and
+what it cannot.And that boundary, as we have seenthroughout this series,
+is one of themost interesting places in all of humanknowledge.
+
+Let us assume for the finaltime in this video that the simulationhypothesis is
+correct. That somewhereoutside what we can observe, what we canmeasure,
+what we can even conceptualize,something is running a computation.
+
+Andthat computation is this.
+
+The stars, thegalaxies, the oceans, the people, theconversations,
+the grief and the joy andthe boredom and the love.
+
+All of itexecuting on hardware we cannot access.
+
+Written in code we cannot read forpurposes we cannot know. Does it matter?
+The Decart problem. The philosopherRenee Decart asked a version of thisquestion
+in 1641before computers before simulationbefore any of the physics we
+havediscussed in this video existed.
+
+Heasked, "How do I know that an evil demonis not deceiving me?
+How do I know thateverything I perceive is not anillusion?
+That the external world Ibelieve I am experiencing is not afabrication,
+a false reality constructedto deceive me.
+
+" His answer was the mostfamous sentence in the history ofphilosophy.
+
+Kogito erggo sum. I think,therefore I am.
+
+Whatever is happening,demon or simulation or base reality, thethinking is real.
+
+The experience ofbeing here right now, processing thesewords is real.
+
+Even if the substrate iscomputational, the experience running onthat substrate
+is genuine. Pain hurts ina simulation. Love matters in asimulation.
+
+Loss is real in asimulation.
+
+David Charmers 300 years after Daycartmade the same point in differentlanguage.
+
+Virtual reality is genuinereality.
+
+The simulation does notdiminish the experience. It is theexperience.
+
+What changes? If we are in asimulation, some things change.
+
+Thequestion of what existed before the bigbang has a different answer.
+
+Whatevercomputational process initiated ouruniverse, the question of
+whetherphysical laws are necessary orcontingent has a different answer.
+
+Theyare the rules the programmer chose.
+
+Thequestion of whether the universe has apurpose has a different answer,
+itmight. If whoever is running it had onein mind and the question of what
+happensafter death becomes in principledifferent, not necessarily better.
+
+Asimulation can be turned off. Files canbe deleted.
+
+The programmer may have nointerest in preserving what happensafter a simulated
+mind reaches the endof its rendered path.
+
+Or, and this isthe version that is harder to thinkabout, the file might be
+saved. Whatdoes not change?Everything you have ever felt is real.
+
+Every person you have loved is real.
+
+Every moment of beauty or difficulty orordinary Tuesday afternoon is real inthe
+sense that matters it wasexperienced. It happened.
+
+Whatever thesubstrate, the experience is the thing.Daycart was right.
+
+The thinking is real.The feeling is real. The being here inthis moment is real.
+
+If this is asimulation, something created it.
+
+Andthat something exists in a reality wecannot access, cannot observe and
+cannotimagine. Which means the deepest truthabout our existence may be
+permanentlybeyond our reach.
+
+But the existenceitself, this right now, whatever it is,is not. Rest now.
+
+Whatever this is, youare in it. And for the moment, that isenough.
