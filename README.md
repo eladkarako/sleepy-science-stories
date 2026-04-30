@@ -6,6 +6,7 @@ unmodified - you'll find the channel name mostly on the start, including asking 
 
 titles were changes, minified. date is ISO like format of year (4 digits), month, day. matching the video upload time (not publish time) in the specific channel. some of the no longer exist, still it is a nice way of tracking all the videos.  you can probably find the original video if the channel still exist using it.  
 
+note: weird unicode as well as `'` removed from the titles to make them compatible for more platforms, so you'll find stuff like cant (`can't`).  
 
 <hr/>
 
